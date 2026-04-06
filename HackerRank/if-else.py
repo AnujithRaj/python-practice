@@ -1,0 +1,14 @@
+n = int(input())
+
+# Step 1: Check if odd
+if n % 2 != 0:
+    print("Weird")
+
+# Step 2: If even
+else:
+    if 2 <= n <= 5:
+        print("Not Weird")
+    elif 6 <= n <= 20:
+        print("Weird")
+    else:
+        print("Not Weird")
