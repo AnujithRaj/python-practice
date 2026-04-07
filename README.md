@@ -1,14 +1,19 @@
 # Python Practice
 
-This repository contains my Python learning and practice work.
+This repository showcases my Python learning and problem-solving journey, including:
 
 ## 📌 Topics Covered
 - Basic Python Programs
-- HackerRank Problems
-- LeetCode Problems
+- Loops
+- Conditional Statements
+- Functions
 - Mini Projects
 
-## 📁 Structure
+## 💻 Platforms
+- HackerRank Problems
+- LeetCode Problems
+
+## 📁 Folder Structure
 - basics/
 - hacker-rank/
   - easy/
