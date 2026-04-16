@@ -1,9 +1,14 @@
-a = 5
-b = 10
+# This function demonstrates how to swap the values of two variables using a temporary variable.
+def swap_numbers():
+    a = 5
+    b = 10
+    # Print the original values of a and b
+    print("Before swapping: ", a, b)
+    temp = a
+    a = b
+    b = temp
+    # Print the swapped values of a and b
+    print("After swapping:", a, b)
 
-# Swapping the values of a and b
-temp = a # Store the value of a in a temporay variabele
-a = b  # Assign the value of b to a
-b = temp # Assign the value of temp (which is the original value of a )to b
-
-print("After swappping: a = ", a, "b = ", b)
+# Call the function to see the result 
+swap_numbers()
