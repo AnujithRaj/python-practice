@@ -13,3 +13,7 @@ lis3 = [2,3,4,5,6]
 
 print("Using 'is' (different object):", lis1 is lis3)
 print("Using '==' (same value):", lis1 == lis3)
+
+# Understanding
+# is : Same memory
+# == : Same Value
