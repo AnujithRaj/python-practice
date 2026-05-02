@@ -1,0 +1,16 @@
+Query: i forgot my password
+Category: Account
+Response: Please reset your password using 'forgot password' option
+
+Query: payment failed
+Category: Billing
+Response: Please check your payment details or contact billing support
+
+Query: account hacked
+Category: Security
+Response: This is a security issue. Escalation to support team
+
+Query: hello i need help
+Category: General
+Response: Please contact support
+

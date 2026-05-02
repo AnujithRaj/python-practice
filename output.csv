@@ -1,0 +1,5 @@
+query,category,response
+i forgot my password,Account,Please reset your password using 'forgot password' option
+payment failed,Billing,Please check your payment details or contact billing support
+account hacked,Security,This is a security issue. Escalation to support team
+hello i need help,General,Please contact support
