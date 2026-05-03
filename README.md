@@ -7,6 +7,7 @@ This repository showcases my Python learning and problem-solving journey, includ
 - Loops
 - Conditional Statements
 - Functions
+- oops
 - Mini Projects
 
 ## 💻 Platforms
@@ -22,6 +23,7 @@ This repository showcases my Python learning and problem-solving journey, includ
   - arrays/
   - strings/
   - linked-list/
+- oops
 - mini-projects/
 - practice/
 
