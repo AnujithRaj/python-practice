@@ -16,8 +16,8 @@ def divide(a, b):
     return a / b
 
 # Input
-a = int(input("Enter first Number: "))
-b = int(input("Enter second Number: "))
+a = float(input("Enter first Number: "))
+b = float(input("Enter second Number: "))
 
 print("Choose operation: ")
 print("1. Add")
