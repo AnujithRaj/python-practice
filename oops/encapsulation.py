@@ -192,5 +192,3 @@ print(acc1.transfer(acc2,20000))
 print("Komal Balance: ", acc1.get_balance())
 print("Rahul Balance: ", acc2.get_balance())
 
-# Restrict direct access to sensitive data.
-
